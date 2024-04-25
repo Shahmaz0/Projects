@@ -7,8 +7,9 @@ function App() {
         return (
             <div>
                 <Navigation/>
-                <ContactHeader/>
-                <ContactForm/>
+                <ContactHeader/>\
+                    {/*<ContactForm/>*/}
+                    <ContactForm/>
             </div>
         )
 }
